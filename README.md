@@ -48,7 +48,7 @@ sudo cp caddy /usr/bin/
 ```
 In the end, you directory should look something a little like this:
 ![image](https://user-images.githubusercontent.com/100608327/205430678-19347429-d50b-426d-b5cb-f9376341b8bd.png)
-**Do not mind the red folder/file. It is the thing we unarchived.**
+**Do not mind the red folder/file. It is the file we unarchived.**
 **Also a reminder that we do not need to configure the web server just yet.**
 
 ## Step 4:
